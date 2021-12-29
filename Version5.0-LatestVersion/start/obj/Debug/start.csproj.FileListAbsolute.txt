@@ -1,0 +1,15 @@
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\start.csprojAssemblyReference.cache
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\start.csproj.ResolveComReference.cache
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\start.batdau.resources
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\start.highscore.resources
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\start.ingame.resources
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\start.loadinggame.resources
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\start.menu1.resources
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\start.Properties.Resources.resources
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\start.Resources.HuongDan.resources
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\start.csproj.GenerateResource.cache
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\start.csproj.CoreCompileInputs.cache
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\start.exe
+C:\Users\HP.LAPTOP-41N2C34C\Downloads\Version5.0-LatestVersion\start\obj\Debug\start.pdb
